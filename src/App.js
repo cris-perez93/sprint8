@@ -15,10 +15,7 @@ function App() {
             });
 
             setAcudit(result.data.joke)
-
-            
-
-        }
+    }
         
         
 return (
